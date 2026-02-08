@@ -1,6 +1,6 @@
-package org.example;
+package org.example.palindrome;
 
-public class palimdrome {
+public class palimdrome1 {
 
     public static void main(String[] args) {
         String word = "civic";
