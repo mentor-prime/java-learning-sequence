@@ -1,4 +1,4 @@
-package org.example;
+package org.example.duplicates;
 
 public class removeDuplicates {
     public static void main(String[] args) {

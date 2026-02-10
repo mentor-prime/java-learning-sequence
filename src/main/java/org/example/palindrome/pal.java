@@ -1,4 +1,4 @@
-package org.example;
+package org.example.palindrome;
 
 public class pal {
     public static void main(String[] args) {

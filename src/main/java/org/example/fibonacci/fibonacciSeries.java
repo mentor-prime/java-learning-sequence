@@ -1,4 +1,4 @@
-package org.example;
+package org.example.fibonacci;
 
 public class fibonacciSeries {
     public static void main(String[] args) {

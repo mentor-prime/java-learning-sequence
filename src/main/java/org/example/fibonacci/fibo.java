@@ -1,4 +1,4 @@
-package org.example;
+package org.example.fibonacci;
 
 public class fibo {
 
