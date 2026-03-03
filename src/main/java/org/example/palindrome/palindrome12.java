@@ -10,20 +10,15 @@ public class palindrome12 {
     }
 
     public static boolean checkPalindrome(String string) {
-
         char[] originalString = string.toCharArray();
         char[] reversedString = new char[originalString.length];
-
         for (int i = 0; i < originalString.length; i++) {
             reversedString[i] = originalString[originalString.length - 1 - i];
         }
-
         System.out.println(reversedString);
-
         for (int i = 0; i < originalString.length; i++) {
             if (reversedString[i] != originalString[i]) {
                 return false;
-                // break;
             }
         }
         return true;
