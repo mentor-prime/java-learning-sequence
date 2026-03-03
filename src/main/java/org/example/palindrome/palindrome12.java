@@ -26,9 +26,6 @@ public class palindrome12 {
                 // break;
             }
         }
-
         return true;
     }
-
-
 }
