@@ -23,7 +23,6 @@ public class palindrome12 {
                 return false;
             }
         }
-
         return true;
     }
 }
