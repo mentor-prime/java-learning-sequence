@@ -4,6 +4,7 @@ public class palindrome11 {
 
     public static void main(String[] args) {
         String word = "123321";
+        // String word = "123321";
         System.out.println(checkPalindrome(word) ? "Palindrome" : "Not a palindrome" );
     }
 
