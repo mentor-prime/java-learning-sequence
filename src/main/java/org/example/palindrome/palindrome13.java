@@ -8,7 +8,6 @@ public class palindrome13 {
         String tc3 = "123321123321";
         System.out.println(checkPalindrome(tc1) ? "Palindrome" : "Not a palindrome" );
         System.out.println(checkPalindrome(tc2) ? "Palindrome" : "Not a palindrome" );
-        System.out.println(checkPalindrome(tc3) ? "Palindrome" : "Not a palindrome" );
     }
 
     public static boolean checkPalindrome(String string) {
