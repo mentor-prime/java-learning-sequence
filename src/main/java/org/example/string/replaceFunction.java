@@ -2,10 +2,7 @@ package org.example.string;
 
 public class replaceFunction {
     public static void main(String[] args) {
-
-
-        String string = "java_123_selenium";
-
+        String string = "123_123_123";
         System.out.println("output: " + replaceFunction(string, "_123_"));
     }
 
