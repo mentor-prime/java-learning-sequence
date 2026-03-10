@@ -6,6 +6,8 @@ public class reverseString7 {
         System.out.println("Reversed string: " + reverseFunction(string));
     }
 
+
+
     public static String reverseFunction(String string) {
         char[] originalString = string.toCharArray();
         char[] reversedString = new char[originalString.length];
