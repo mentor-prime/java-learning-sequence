@@ -7,7 +7,6 @@ public class reverseString7 {
     }
 
 
-
     public static String reverseFunction(String string) {
         char[] originalString = string.toCharArray();
         char[] reversedString = new char[originalString.length];
