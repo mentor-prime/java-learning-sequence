@@ -3,7 +3,7 @@ package org.example.duplicates;
 public class findDuplicates3 {
 
     public static void main(String[] args) {
-        int[] array = {1,2, 2, 1, 2, 3, 4, 5, 5};
+        int[] array = {1,2, 2, 1, 2, 3, 4, 5};
         findDuplicate(array);
     }
 
