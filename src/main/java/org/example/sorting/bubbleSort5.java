@@ -28,4 +28,9 @@ public class bubbleSort5 {
         return list[list.length - 2];
     }
 
+//    public static int secondHighestNumber(int[] list) {
+//        sort(list);
+//        return list[list.length - 2];
+//    }
+
 }
