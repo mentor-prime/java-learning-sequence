@@ -27,6 +27,4 @@ public class bubbleSort5 {
         sort(list);
         return list[list.length - 2];
     }
-
-
 }
