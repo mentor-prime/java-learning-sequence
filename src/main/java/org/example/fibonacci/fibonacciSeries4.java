@@ -4,6 +4,8 @@ public class fibonacciSeries4 {
 
     public static void main(String[] args) {
         printSequence(10);
+        printSequence(11);
+        printSequence(20);
     }
 
     public static void printSequence(int number) {
